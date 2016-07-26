@@ -1,0 +1,10 @@
+# Site settings
+title: 15-411
+tag_text: 15-411
+baseurl: /~15411
+description: Great Theoretical Ideas of Computer Science
+
+# Build settings
+markdown: kramdown
+
+exclude: ["README.md"]

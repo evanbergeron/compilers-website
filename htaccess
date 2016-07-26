@@ -1,0 +1,6 @@
+---
+layout: none
+permalink: .htaccess
+---
+order deny,allow
+allow from all
